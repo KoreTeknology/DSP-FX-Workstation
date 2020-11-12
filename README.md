@@ -26,7 +26,7 @@
 ---
 
 ### Features
-This module is intended to recieve mono or stereo channels to process 24bits audio samples.
+This Multi-FX plugin is intended to recieve mono, stereo or quadraphonic channels to process 24bits audio samples.
 * Real Time processing
 * Internal Presets Banks
 * Midi Parameters Controls
