@@ -1,5 +1,5 @@
 # DSP-Workstation
- A **Free Audio Plugin using Optimized DSP Processing**, 24bits, 44.1/48kHrz
+ A **Free & Open Source Audio Plugin using Optimized DSP Processing**, 24bits, 44.1/48kHrz
  
  * **Formats:** VST3/AU (Windows/Apple/Linux OS compatible)
  * **Type:** Audio Effects Processor
@@ -7,7 +7,7 @@
  * **Audio:** 4x inputs / 4x outputs channels
  * **Midi:** DAW or Hardware input Channels
  
- Written by Uriel.Deveaud / 2020 **Quadraphonics**
+ written by uriel Deveaud
 
 <img src="https://img.shields.io/badge/DSP Workstation-VST/AU-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/C++-Audio-green.svg" />
 
