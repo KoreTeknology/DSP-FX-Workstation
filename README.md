@@ -23,8 +23,9 @@ See the [TODO List](TODO.md) file for details
 ### Features
 This module is intended to recieve mono or stereo channels to process 24bits audio samples.
 
+---
 
-### Components
+## Components
 
 * MAIN
 * PROCESSOR
@@ -49,6 +50,7 @@ DSP Workstation is based on some external libraries :
  * CORE AUDIO (Apple) : https://developer.apple.com/documentation/audiounit
  * JACK (Linux) : www.linuxmao.org/Jack
 
+See the [JUCE C++ Modules List](https://github.com/juce-framework/JUCE/tree/master/modules) for references.
 ---
 
 ## Author
