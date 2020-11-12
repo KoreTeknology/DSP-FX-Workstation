@@ -8,18 +8,30 @@
 ## Overview 
 
 ### Features
-This module is intended to recieve a mono or stereo channels to process
+This module is intended to recieve a mono or stereo channels to process 24bits audio samples.
 
-| **Status:** *In progress* | **Title:** *MK1* |
+| **Status:** *In progress* | **Title:** *0.5.6* |
 | --- | --- |
 
 See the [TODO List](TODO.md) file for details
 
 ---
 
+## Third party software
+
+DSP Workstation rely on some awesome libraries :
+ * JUCE : http://www.juce.com
+ * Ableton Link : https://github.com/Ableton/link
+ * VST3 SDK : www.steinberg.net
+ * ASIO (Windows) : www.steinberg.net
+ * CORE AUDIO (Apple) : https://developer.apple.com/documentation/audiounit
+ * JACK (Linux) : www.linuxmao.org/Jack
+
+---
+
 ## Author
 
-* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
+* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) 
 
 <img src="https://img.shields.io/badge/Aktiv-25-9cf.svg" /> <img src="https://img.shields.io/badge/5-Viento-9cf.svg" /> <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" />
 
@@ -30,7 +42,7 @@ Collaboration projects are always welcome ;)
 
 ## License
 
-This project is licensed under the GPL-3 License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
 
 
 ## Acknowledgments
