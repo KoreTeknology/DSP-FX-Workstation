@@ -1,7 +1,7 @@
 # DSP-Workstation
- A **Free & Open Source Audio Plugin using Optimized DSP Processing**, 24bits, 44.1/48kHrz
+ A **Free & Open Source Audio Plugin using Optimized DSP Processing**
  
- * **Formats:** VST3/AU (Windows/Apple/Linux OS compatible)
+ * **Formats:** VST3/AU (Windows/Apple/Linux OS compatible) 64bits
  * **Type:** Audio Effects Processor
  * **Modes:** Standalone, Insert, Bypass
  * **Audio:** 4x inputs / 4x outputs channels
