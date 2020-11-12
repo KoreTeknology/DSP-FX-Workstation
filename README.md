@@ -45,7 +45,8 @@ DSP Workstation is based on some external libraries :
 
 ## Author
 
-* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" /> <img src="https://img.shields.io/badge/Qaudraphonics-Audio-red.svg" />
+* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
+<img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" /> <img src="https://img.shields.io/badge/Qaudraphonics-Audio-red.svg" />
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
 Collaboration projects are always welcome ;)
