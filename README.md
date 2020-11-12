@@ -1,7 +1,7 @@
 # DSP-Workstation
  An Audio Plugin using Optimized DSP Processing, 16/24bits, 44.1/48kHrz
- **Formats:** VST/AU (Windows/Apple/Linux OS compatible)
- **Type:** Audio Effects
+ * **Formats:** VST/AU (Windows/Apple/Linux OS compatible)
+ * **Type:** Audio Effects
 
 <img src="https://img.shields.io/badge/DSP Workstation-VST/AU-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2020-blue.svg" />  <img src="https://img.shields.io/badge/C++-Coding-darkgrey.svg" />    <img src="https://img.shields.io/badge/Virtual-Audio-lightgrey.svg" />
 
