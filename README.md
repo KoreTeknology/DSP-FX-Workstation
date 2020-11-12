@@ -25,10 +25,15 @@ See the [TODO List](TODO.md) file for details
 
 ### Features
 This module is intended to recieve mono or stereo channels to process 24bits audio samples.
+* Real Time processing
+* Internal Presets Banks
+* Midi Parameters Controls
+* FX Slots and Modulation Matrix
+* and more...
 
 ---
 
-## Third party software
+## Third party softwares
 
 DSP Workstation is based on some external libraries :
  * JUCE : http://www.juce.com
