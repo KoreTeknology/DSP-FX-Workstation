@@ -5,7 +5,7 @@
  * **Type:** Audio Effects Processor
  * **Modes:** Standalone, Insert, Bypass
  * **Audio:** 4x inputs / 4x outputs channels
- * **Midi:** DAW or Hardware input Channels
+ * **Midi:** DAW or/and Hardware input Channels
  
  written by uriel Deveaud
 
@@ -15,8 +15,8 @@
 
 ## Overview 
 
-| **Status:** *In progress* | **Title:** *0.5.6* |
-| --- | --- |
+| **Status:** *In progress* | First Public Release with minimum Presets | 12/2020 | **Title:** *0.5.6* |
+| --- | --- | --- | --- |
 
 See the [TODO List](TODO.md) file for details
 
