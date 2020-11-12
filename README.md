@@ -27,7 +27,8 @@ This module is intended to recieve mono or stereo channels to process 24bits aud
 ### Components
 
 * MAIN
-* ...
+* PROCESSOR
+* GUI
 
 ---
 
@@ -46,6 +47,7 @@ DSP Workstation is based on some external libraries :
 ## Author
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
+
 <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" /> <img src="https://img.shields.io/badge/Qaudraphonics-Audio-red.svg" />
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
@@ -60,9 +62,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 ## Acknowledgments
 
-* This work is dedicated to all digital musicians ;)
-* Plugin design and framework created using the JUCE framework available at: [JUCE](http://www.juce.com/)
-* i will try to keep all types of codes as clear as possible using syntax highlighting and line referencing
+* Documentation: syntax highlighting and line referencing..
 
 ```c++
 if (isAwesome){
