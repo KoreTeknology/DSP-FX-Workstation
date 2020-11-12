@@ -28,7 +28,7 @@ Collaboration projects are always welcome ;)
 
 ## License
 
-This project is licensed under the GPL-3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL-3 License - see the [LICENSE](LICENSE) file for details
 
 
 ## Acknowledgments
