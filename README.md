@@ -51,6 +51,7 @@ DSP Workstation is based on some external libraries :
  * JACK (Linux) : www.linuxmao.org/Jack
 
 See the [JUCE C++ Modules List](https://github.com/juce-framework/JUCE/tree/master/modules) for references.
+
 ---
 
 ## Author
