@@ -36,6 +36,7 @@ This project is licensed under the GPL-3 License - see the [LICENSE](LICENSE) fi
 ## Acknowledgments
 
 * This work is dedicated to all digital musicians ;)
+* Plugin design and framework created using the JUCE framework available at: [JUCE](http://www.juce.com/)
 * i will try to keep all types of codes as clear as possible using syntax highlighting and line referencing
 
 ```c++
