@@ -13,7 +13,7 @@
 
 ---
 
-| [DESIGN](Documentation/Plugin-Design.md) | [STRUCTURE](Documentation/Plugin-Structure.md) | [GUI](Documentation/Plugin-Gui.md) | [PRESETS](Documentation/Plugin-Presets.md) | [TODO](TODO.md) | [FAQ](Documentation/Plugin-Faq.md) |
+| [:blue_book: DESIGN](Documentation/Plugin-Design.md) | [:orange_book: STRUCTURE](Documentation/Plugin-Structure.md) | [:green_book: GUI](Documentation/Plugin-Gui.md) | [:ledger: PRESETS](Documentation/Plugin-Presets.md) | [:pushpin: TODO](TODO.md) | [:book: FAQ](Documentation/Plugin-Faq.md) |
 | --- | --- | --- | --- | --- | --- |
 
 ---
