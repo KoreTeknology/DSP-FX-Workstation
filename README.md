@@ -23,8 +23,6 @@ See the [TODO List](TODO.md) file for details
 ### Features
 This module is intended to recieve mono or stereo channels to process 24bits audio samples.
 
-<img src="Documentation/images/scheme.png" width=90%>
-
 ---
 
 ## Components
