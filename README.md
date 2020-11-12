@@ -3,6 +3,8 @@
 
 <img src="https://img.shields.io/badge/DSP Workstation-VST-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2020-blue.svg" />  <img src="https://img.shields.io/badge/C++-Coding-purple.svg" />    <img src="https://img.shields.io/badge/Virtual-Audio-lightgrey.svg" />
 
+<img src="Documentation/images/rackU.png" width=100%>
+
 ---
 
 ## Overview 
