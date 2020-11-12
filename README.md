@@ -50,7 +50,7 @@ DSP Workstation is based on some external libraries :
  * CORE AUDIO (Apple) : https://developer.apple.com/documentation/audiounit
  * JACK (Linux) : www.linuxmao.org/Jack
 
-See the [JUCE C++ Modules List](https://github.com/juce-framework/JUCE/tree/master/modules) for references.
+See the [JUCE C++ Modules List](https://github.com/juce-framework/JUCE/tree/master/modules) and the  [JUCE Modules Description](https://docs.juce.com/master/modules.html) / [JUCE API](https://docs.juce.com/master/index.html) for references.
 
 ---
 
