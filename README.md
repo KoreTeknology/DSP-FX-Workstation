@@ -13,6 +13,8 @@ This module is intended to recieve a mono or stereo channels to process
 | **Status:** *In progress* | **Title:** *MK1* |
 | --- | --- |
 
+See the [TODO List](TODO.md) file for details
+
 ---
 
 ## Author
