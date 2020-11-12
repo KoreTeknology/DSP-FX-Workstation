@@ -9,7 +9,7 @@
  
  written by uriel Deveaud
 
-<img src="https://img.shields.io/badge/DSP Workstation-VST/AU-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/C++-Audio-green.svg" />
+<img src="https://img.shields.io/badge/DSP Workstation-VST/AU-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/C++-14-green.svg" /> <img src="https://img.shields.io/badge/Audio-Programming-blue.svg" />
 
 ---
 
