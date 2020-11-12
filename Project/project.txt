@@ -1,1 +1,4 @@
-this is..
+this project is divided into 3 class:
+- The Component playground
+- The Development Release
+- The official Release
