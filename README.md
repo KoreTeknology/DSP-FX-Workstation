@@ -30,7 +30,7 @@ This module is intended to recieve mono or stereo channels to process 24bits aud
 
 ## Third party software
 
-DSP Workstation rely on some awesome libraries :
+DSP Workstation is based on some external libraries :
  * JUCE : http://www.juce.com
  * Ableton Link : https://github.com/Ableton/link
  * VST3 SDK : www.steinberg.net
