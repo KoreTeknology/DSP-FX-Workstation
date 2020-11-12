@@ -1,5 +1,5 @@
 # DSP-Workstation
- An Audio Plugin using Optimized DSP Processing, 16/24bits, 44.1/48kHrz
+ An Audio Plugin using Optimized DSP Processing, 24bits, 44.1/48kHrz
  * **Formats:** VST3/AU (Windows/Apple/Linux OS compatible)
  * **Type:** Audio Effects Processor
  * **Modes:** Standalone, Insert, Bypass
@@ -12,13 +12,19 @@
 
 ## Overview 
 
-### Features
-This module is intended to recieve mono or stereo channels to process 24bits audio samples.
-
 | **Status:** *In progress* | **Title:** *0.5.6* |
 | --- | --- |
 
 See the [TODO List](TODO.md) file for details
+
+### Features
+This module is intended to recieve mono or stereo channels to process 24bits audio samples.
+
+
+### Components
+
+* MAIN
+* ...
 
 ---
 
