@@ -11,6 +11,9 @@
 
 <img src="https://img.shields.io/badge/DSP Workstation-VST/AU-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/C++-14-green.svg" /> <img src="https://img.shields.io/badge/Audio-Programming-blue.svg" />
 
+| [DESIGN](Documentation/Plugin-Design.md) | [STRUCTURE](Documentation/Plugin-Structure.md) | [GUI](Documentation/Plugin-Gui.md) | [PRESETS](Documentation/Plugin-Presets.md) |
+| --- | --- | --- | --- |
+
 ---
 
 ## Overview 
@@ -22,21 +25,6 @@ See the [TODO List](TODO.md) file for details
 
 ### Features
 This module is intended to recieve mono or stereo channels to process 24bits audio samples.
-
----
-
-## Components
-
-* MAIN
-* PROCESSOR
-* GUI
-
-| File | Description | Type | Weight |
-| --- | --- | --- | --- |
-| DSPW-processor.h | Main Structure | Header | 5.0ko |
-| DSPW-processor.cpp | DSP Operators | Audio Processing | 3.4ko |
-| DSPW-editor.h | Main GUI | Header | 5.0ko |
-| DSPW-editor.cpp | Visual Structure | User Interface | 3.4ko |
 
 ---
 
@@ -70,13 +58,4 @@ Collaboration projects are always welcome ;)
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
 
 
-## Acknowledgments
-
-* Documentation: syntax highlighting and line referencing..
-
-```c++
-if (isAwesome){
-  return true
-}
-```
 > This page is in progress, please, come back soon !
