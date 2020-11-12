@@ -13,8 +13,8 @@
 
 ---
 
-| [DESIGN](Documentation/Plugin-Design.md) | [STRUCTURE](Documentation/Plugin-Structure.md) | [GUI](Documentation/Plugin-Gui.md) | [PRESETS](Documentation/Plugin-Presets.md) | [TODO](TODO.md) |
-| --- | --- | --- | --- | --- |
+| [DESIGN](Documentation/Plugin-Design.md) | [STRUCTURE](Documentation/Plugin-Structure.md) | [GUI](Documentation/Plugin-Gui.md) | [PRESETS](Documentation/Plugin-Presets.md) | [TODO](TODO.md) | [FAQ](Documentation/Plugin-Faq.md) |
+| --- | --- | --- | --- | --- | --- |
 
 ---
 
