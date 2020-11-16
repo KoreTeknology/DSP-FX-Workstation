@@ -56,7 +56,7 @@ See the [JUCE C++ Modules List](https://github.com/juce-framework/JUCE/tree/mast
 <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" /> <img src="https://img.shields.io/badge/Qaudraphonics-Audio-red.svg" />
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
-Collaboration projects are always welcome ;)
+Collaboration projects are always welcome ;). See the [Code SandBox](https://github.com/KoreTeknology/Sandbox-Juce-6)
 
 ---
 
