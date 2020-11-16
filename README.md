@@ -1,4 +1,4 @@
-# DSP-Workstation
+# DSP-FX-Workstation
  A **Free & Open Source Audio Plugin using Optimized DSP Processing**
  
  * **Formats:** VST3/AU (Windows/Apple/Linux OS compatible) 64bits
