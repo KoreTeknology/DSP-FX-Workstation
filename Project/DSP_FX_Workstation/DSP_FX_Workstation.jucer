@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="xxoARY" name="DSP_FX_Workstation" projectType="audioplug"
+              useAppConfig="0" jucerFormatVersion="1" version="0.4.5" companyName="Quadraphonics"
+              pluginFormats="buildStandalone,buildVST,buildVST3" userNotes="open source project - by uriel Deveaud">
+  <MAINGROUP id="vtblxM" name="DSP_FX_Workstation">
+    <GROUP id="{03B7CF29-5431-E01F-C036-0F8DFD21801D}" name="Source">
+      <FILE id="AOC1lA" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="ynxJeF" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="LttETM" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="FrxV3d" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <GROUP id="{6FA00347-9A2F-6DAC-B6B8-80B268E8A100}" name="Gui">
+        <FILE id="zmKrdN" name="Knobs.h" compile="0" resource="0" file="Source/Gui/Knobs.h"/>
+        <FILE id="mCFGAh" name="ComboBox.h" compile="0" resource="0" file="Source/Gui/ComboBox.h"/>
+        <FILE id="cYlVVq" name="LevelMeter.h" compile="0" resource="0" file="Source/Gui/LevelMeter.h"/>
+        <FILE id="tSH7L1" name="LinksBar.h" compile="0" resource="0" file="Source/Gui/LinksBar.h"/>
+        <FILE id="j0kQTG" name="TransportBar.h" compile="0" resource="0" file="Source/Gui/TransportBar.h"/>
+      </GROUP>
+      <GROUP id="{14A70A13-C0BA-8327-5EE8-55A9146A6039}" name="Audio">
+        <FILE id="oTkquk" name="ProcessorBase.h" compile="0" resource="0" file="Source/Audio/ProcessorBase.h"/>
+      </GROUP>
+      <GROUP id="{33F05E26-B2BC-B275-2AF7-22C08E3EB5FF}" name="Effects">
+        <FILE id="f0iP3i" name="FxGain.h" compile="0" resource="0" file="Source/Effects/FxGain.h"/>
+        <FILE id="aC4VW6" name="FxHighPassFilter.h" compile="0" resource="0"
+              file="Source/Effects/FxHighPassFilter.h"/>
+        <FILE id="jeOEFL" name="FxBandPassFilter.h" compile="0" resource="0"
+              file="Source/Effects/FxBandPassFilter.h"/>
+        <FILE id="cxPPFb" name="FxLowPassFilter.h" compile="0" resource="0"
+              file="Source/Effects/FxLowPassFilter.h"/>
+        <FILE id="FxLji7" name="FxWavesGenerator.h" compile="0" resource="0"
+              file="Source/Effects/FxWavesGenerator.h"/>
+      </GROUP>
+      <FILE id="vrFxlP" name="Helper.h" compile="0" resource="0" file="Source/Helper.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"
+               JUCE_ASIO="1"/>
+  <EXPORTFORMATS>
+    <VS2017 targetFolder="Builds/VisualStudio2017">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="DSP_FX_Workstation"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="DSP_FX_Workstation"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../../../../../../JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2017>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>
