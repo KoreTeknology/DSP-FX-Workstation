@@ -8,13 +8,22 @@
 ---
 
 :fire:
-- [x] one
-- [ ] two
+- [ ] COMPONENT Cpu Usage % (T.audioDeviceManage)
+- [ ] BUTTON Bypass all
+- [ ] FIX Bypass Click
+- [x] Main GUI > New BG
+- [ ] Tabbed Gui for all processors
+- [ ] ADD LinksBar
+- [ ] ADD Transport Bar
+- [ ] ADD Volume / Pan, output main graph
+- [ ] ADD Level meters
+- [ ] ADD Audio setttings if Not plugin
+
 
 :+1:
-- [x] one
-- [x] two
-- [x] 3
+- [] Graph structure, live modification
+- [ ] FX 1
+- [ ] FX 2
 
 :-1:
 - [ ] 1
