@@ -9,12 +9,13 @@
 
 :fire:
 
-- [x] Main GUI > New BG
 - [x] 4x Processor engines
-- [x] ADD Volume / Pan -> Main output
-- [ ] ADD LinksBar
+- [x] Main GUI background > 1250x250px PNG
+- [x] Knobs GUI Models 64x64
+- [x] ADD Volume / Pan -> Main output control
 - [ ] ADD Transport Bar
 - [ ] ADD Level meters
+- [ ] ADD LinksBar
 - [ ] ADD Component Cpu Usage % (T.audioDeviceManage)
 - [ ] ADD Button Bypass all
 
