@@ -13,21 +13,19 @@
 - [x] Main GUI background > 1250x250px PNG
 - [x] Knobs GUI Models 64x64
 - [x] ADD Volume / Pan -> Main output control
-- [ ] ADD Transport Bar
-- [ ] ADD Level meters
-- [ ] ADD LinksBar
+- [ ] ADD Component Transport Bar
+- [ ] ADD Component Level meters
+- [ ] ADD Component LinksBar
 - [ ] ADD Component Cpu Usage % (T.audioDeviceManage)
 - [ ] ADD Button Bypass all
 
 :+1:
 - [ ] FIX Bypass Click
-- [ ] ADD Audio setttings if Not plugin
-- [ ] FX 1
-- [ ] FX 2
 
 :-1:
 - [ ] 1
-- [ ] 2
+- [ ] ADD Audio setttings if Not plugin
+
 
 
 ---
