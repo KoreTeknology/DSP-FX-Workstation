@@ -13,14 +13,15 @@
 - [x] Main GUI background > 1250x250px PNG
 - [x] Knobs GUI Models 64x64
 - [x] ADD Volume / Pan -> Main output control
-- [ ] ADD Component Transport Bar
 - [ ] ADD Component Level meters
 - [ ] ADD Component LinksBar
 - [ ] ADD Component Cpu Usage % (T.audioDeviceManage)
 - [ ] ADD Button Bypass all
+- [ ] Splash screen
 
 :+1:
 - [ ] FIX Bypass Click
+- [ ] ADD Component Transport Bar
 
 :-1:
 - [ ] 1
