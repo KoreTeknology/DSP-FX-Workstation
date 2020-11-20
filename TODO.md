@@ -9,7 +9,7 @@
 
 :fire:
 
-- [x] 4x Processor engines
+- [x] 4x Processor engines (Audio Modules Graph)
 - [x] Main GUI background > 1250x250px PNG
 - [x] Knobs GUI Models 64x64
 - [x] ADD Volume / Pan -> Main output control
@@ -25,10 +25,12 @@
 :+1:
 - [ ] FIX Bypass Click
 - [ ] ADD Component Transport Bar
+- [ ] ADD Menu options for 2 graph structures (Parallel/Serie)
 
 :-1:
-- [ ] 1
+- [x] ADD ASIO (Standalone version)
 - [ ] ADD Audio setttings if Not plugin
+
 
 
 
