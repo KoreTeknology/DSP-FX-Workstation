@@ -13,7 +13,10 @@
 - [x] Main GUI background > 1250x250px PNG
 - [x] Knobs GUI Models 64x64
 - [x] ADD Volume / Pan -> Main output control
-- [ ] ADD Component Level meters
+- [x] ADD Component Level meters Horizontal/Vertical (ONLY with random values)
+- [x] ADD FUNC Buttons
+- [x] CREATE myLookAndFeel.h ( a custom L+F)
+- [ ] SET level meter values from amplitude
 - [ ] ADD Component LinksBar
 - [ ] ADD Component Cpu Usage % (T.audioDeviceManage)
 - [ ] ADD Button Bypass all
