@@ -21,15 +21,17 @@
 - [ ] ADD Component Cpu Usage % (T.audioDeviceManage)
 - [ ] ADD Button Bypass all
 - [ ] Splash screen
+- [ ] Overlay (over levelmeter, gfx, logo,etc..)
 
 :+1:
 - [ ] FIX Bypass Click
 - [ ] ADD Component Transport Bar
 - [ ] ADD Menu options for 2 graph structures (Parallel/Serie)
+- [ ] DECIDE for menu type ! Tabs, free, or combobox)
 
 :-1:
 - [x] ADD ASIO (Standalone version)
-- [ ] ADD Audio setttings if Not plugin
+- [ ] ADD Audio setttings if Not audioPlugin
 
 
 
