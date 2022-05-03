@@ -3,7 +3,7 @@
 
     LevelMeter.h
     Created: 17 Nov 2020 12:44:36pm
-    Author:  usuario_nuevo
+    Author:  uriel_deveaud
 
   ==============================================================================
 */
