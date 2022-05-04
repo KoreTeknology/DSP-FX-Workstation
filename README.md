@@ -11,6 +11,10 @@
 
 <img src="https://img.shields.io/badge/DSP Workstation-VST/AU-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/C++-14-green.svg" /> <img src="https://img.shields.io/badge/Audio-Programming-blue.svg" />
 
+
+![Mix](https://github.com/KoreTeknology/DSP-FX-Workstation/blob/main/Documentation/images/RackU2.png)
+
+
 ---
 
 | [:blue_book: DESIGN](Documentation/Plugin-Design.md) | [:orange_book: STRUCTURE](Documentation/Plugin-Structure.md) | [:green_book: GUI](Documentation/Plugin-Gui.md) | [:ledger: PRESETS](Documentation/Plugin-Presets.md) | [:pushpin: TODO](TODO.md) | [:book: FAQ](Documentation/Plugin-Faq.md) |
